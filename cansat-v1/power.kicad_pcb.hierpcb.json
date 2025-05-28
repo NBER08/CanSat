@@ -1,0 +1,18 @@
+{
+  "subpcb": {
+    "power.kicad_pcb": {
+      "anchor": "U7"
+    }
+  },
+  "sheet": {
+    "": {
+      "checked": false
+    },
+    "/d7d9f1d2-dbbe-4608-88f1-a3f2c75eb69b": {
+      "checked": false
+    },
+    "/ed98c759-ae98-4f21-8a46-70e18cab7008": {
+      "checked": false
+    }
+  }
+}
